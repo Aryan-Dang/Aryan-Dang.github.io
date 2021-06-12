@@ -1,0 +1,17 @@
+.portfolio-header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif\;
+}
+
+.navBar{
+    background-color: #99ddff;
+}
+
+.nav-item a{
+    color: black;
+    font-weight: 600;
+}
+
+p{
+    color: #99ddff;
+    text-align: center;
+}

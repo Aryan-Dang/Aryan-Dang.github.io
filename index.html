@@ -9,35 +9,51 @@
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<!-- 
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet"> -->
+    <link href = "index.css" rel = 'stylesheet'>
+    <!--TODO: add stuff to make website pop up in searches-->
 
     <title>Name | Portfolio</title>
-    <style>
-        .portfolio-header{
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif\;
-        }
-    </style>
+
 </head>
 <body class="d-flex flex-column h-100" style="background-color: #881c1c;">
     <div class="container" id="main-content">
         <!-- HEADER -->
         <div class="text-center">
-            <h2 class="portfolio-header">Welcome to my portfolio.</h2>
-            <p class="lead">Customize this website to your liking.</p>
+            <!--<p class="lead">Customize this website to your liking.</p>-->
+            <!--TODO:Add Pills maybe ?-->
+            <div class="navBar">
+                <!--TODO: How to add this in the same line as nav bar-->
+                <h2 class="portfolio-header">Welcome to my Portfolio.</h2>
+                <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#About">About Me</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#Projects">Projects <span
+                                class="badge bg-light text-dark">0</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
         </div>
 
         <!-- PROJECTS -->
         <div class="section" id="projects-section">
             <h4 class="text-center">Projects <span class="badge bg-light text-dark">0</span></h4>
+            <p>Projects Come here</p>
         </div>
 
         <!-- CONTACT -->
         <div class="section" id="contact-section">
             <h4 class="text-center">Contact</h4>
+            <p>Contact Info comes here</p>
         </div>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/1200px-UMass_Amherst_Athletics_logo.svg.png" style="height:400px; width:400px;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/1200px-UMass_Amherst_Athletics_logo.svg.png" style="height:100px; width:100px;">
 
     </div>
     <!-- FOOTER -->
