@@ -1,18 +1,9 @@
-.portfolio-header{
-    text-align:center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif\;
-}
-
-.navBar{
-    background-color: #99ddff;
-}
-
-.nav-item a{
-    color: black;
-    font-weight: 600;
-}
-
-p{
-    color: #99ddff;
+.about-me{
+    background-color: #ccffff;
     text-align: center;
+
+}
+
+.title{
+    padding-top: 50px;
 }
