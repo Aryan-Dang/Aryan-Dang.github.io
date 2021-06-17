@@ -1,9 +1,15 @@
+.center{
+    text-align: center;
+}
+
 .about-me{
     background-color: #ccffff;
-    text-align: center;
-
 }
 
 .title{
-    padding-top: 50px;
+    padding: 50px 0px;
+}
+
+.projects{
+    background-color: #b3ffd9;
 }
