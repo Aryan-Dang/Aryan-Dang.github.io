@@ -5,3 +5,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add Icons
 - [ ] Add Footer
 - [ ] Add some quick navigation feature - Sidebar maybe
+- [ ] Add website icon
