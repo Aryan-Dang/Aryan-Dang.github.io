@@ -27,8 +27,15 @@
     </div>
     <!--TODO: Improve transition between pages-->
     <div class="projects" id="projects">
-        <!--Add javascript thing to update project count-->
-        <h2 class="title center">Projects <span class="badge rounded-pill bg-dark">0</span></h2>
+        <!--Some way to make Javascript thing happen after this is defined-->
+        <h2 class="title center">Projects <span class="badge rounded-pill bg-dark" id="projectsBadge" onload="setProjectsCount()">0</span></h2>
+
+        <script>
+            //function which sets the projects count appropriately.
+            //setProjectscount():undefined
+            document.getElementById('projectsBadge').innerHTML=projects.length;
+        </script>
+        
         <!--TODO: make sample project expandable div-->
         <div class="center" id="project-wrapper">
         </div>
