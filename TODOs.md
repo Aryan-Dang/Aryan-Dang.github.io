@@ -7,3 +7,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add some quick navigation feature - Sidebar maybe
 - [ ] Add website icon
 - [ ] Add expandable Project description
+- [ ] Date feature maybe 
