@@ -6,4 +6,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add Footer
 - [ ] Add some quick navigation feature - Sidebar maybe
 - [ ] Add website icon
-- [ ] Add expandable website description
+- [ ] Add expandable Project description
