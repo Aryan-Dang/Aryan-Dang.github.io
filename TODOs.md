@@ -8,3 +8,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add website icon
 - [ ] Add expandable Project description
 - [ ] Date feature maybe 
+- [ ] Add `<noscript>` 
