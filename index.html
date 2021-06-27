@@ -16,7 +16,7 @@
     <script src="projects.js"></script>
 
 </head>
-<body>
+<body onload="setF()">
     <div class="about-me center" id="about-me">
         <h1 class="title">Aryan Dang</h1>
         <div class="subtitle">
@@ -27,15 +27,8 @@
     </div>
     <!--TODO: Improve transition between pages-->
     <div class="projects" id="projects">
-        <!--Some way to make Javascript thing happen after this is defined-->
-        <h2 class="title center">Projects <span class="badge rounded-pill bg-dark" id="projectsBadge" onload="setProjectsCount()">0</span></h2>
+        <h2 class="title center">Projects <span class="badge rounded-pill bg-dark" id="projectsBadge">0</span></h2>
 
-        <script>
-            //function which sets the projects count appropriately.
-            //setProjectscount():undefined
-            document.getElementById('projectsBadge').innerHTML=projects.length;
-        </script>
-        
         <!--TODO: make sample project expandable div-->
         <div class="center" id="project-wrapper">
         </div>
