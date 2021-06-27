@@ -7,4 +7,10 @@ let projects = [
 ];
 
 //sets the projects count according to the length of projects
-const setF = () => { document.getElementById('projectsBadge').innerHTML=projects.length; }
+const setProjectCount = () => { document.getElementById('projectsBadge').innerHTML=projects.length; }
+
+//driver function to execute all functions to update content of site
+function driverJS(){
+    //set 
+    setProjectCount();
+}
