@@ -1,3 +1,11 @@
+/*
+a project is of the following type:
+{
+    'name': String,
+    'description': String
+}
+*/
+
 //An array of projects.
 let projects = [
     {
