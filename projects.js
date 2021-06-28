@@ -11,6 +11,10 @@ let projects = [
     {
         'name':'sample',
         'description' : 'A sample project'
+    },
+    {
+        'name' : 'Personal Website',
+        'description' : 'You\'re looking at it right now. Built using HTML/CSS and Javascript ...'
     }
 ];
 
