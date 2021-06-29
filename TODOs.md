@@ -9,3 +9,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add expandable Project description
 - [ ] Date feature maybe 
 - [ ] Add `<noscript>` 
+- [ ] Add setter function for getting a `project`
