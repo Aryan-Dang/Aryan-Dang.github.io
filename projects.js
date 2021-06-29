@@ -21,8 +21,21 @@ let projects = [
 //sets the projects count according to the length of projects
 const setProjectCount = () => { document.getElementById('projectsBadge').innerHTML=projects.length; }
 
+//operates on a single project to format
+//displayProject(project): undefined
+function displayProject(project){
+    let wrapper = document.getElementById('project-wrapper');
+    //using += adds new project
+    wrapper.innerHTML += `
+    <div class="project">
+        ${project.name}
+    </div>
+    `;
+}
+
 //driver function to execute all functions to update content of site
 function driverJS(){
     //set 
     setProjectCount();
+    projects.forEach(displayProject);
 }
