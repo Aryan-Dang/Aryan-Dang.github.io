@@ -15,7 +15,11 @@ let projects = [
     {
         'name' : 'Personal Website',
         'description' : 'You\'re looking at it right now. Built using HTML/CSS and Javascript ...'
-    }
+    },
+    {
+        'name':'Sample2',
+        'description' : 'Another sample project'
+    },
 ];
 
 //sets the projects count according to the length of projects
