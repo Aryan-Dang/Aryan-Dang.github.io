@@ -24,4 +24,5 @@ body{
     border-style: solid;
     border-width: 2.5px;
     border-radius: 12px;
+    display: inline-block;
 }
