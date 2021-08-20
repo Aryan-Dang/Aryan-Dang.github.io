@@ -14,7 +14,7 @@ let projects = [
     },
     {
         'name' : 'Personal Website',
-        'description' : 'You\'re looking at it right now. Built using HTML/CSS and Javascript ...'
+        'description' : "You're looking at it right now. Built using HTML/CSS and Javascript ..."
     },
     {
         'name':'Sample2',
@@ -34,8 +34,8 @@ function displayProject(project){
         <!--bootstrap code for displaying card-->
         <div class="card" style="width: 18rem;">
             <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h5 class="card-title">${project.name}</h5>
+            <p class="card-text">${project.description}</p>
             </div>
         </div>
     `;
