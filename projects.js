@@ -32,8 +32,8 @@ function displayProject(project){
     //using += adds new project
     wrapper.innerHTML += `
     <div class="project">
-        <h2>${project.name}</h2>
-        <p>${project.description}</p>
+        <h2 class='project-name'>${project.name}</h2>
+        <p class='project-desc'>${project.description}</p>
     </div>
     `;
 }
