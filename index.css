@@ -17,3 +17,7 @@
 body{
     background-color: rgb(255, 255, 153,0.2);
 }
+
+.card{
+    margin: 2px;
+}
