@@ -11,3 +11,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add `<noscript>` 
 - [ ] Add setter function for getting a `project`
 - [ ] Add clubs & organisations
+- [ ] Center everything so there's equal space on left and right side
