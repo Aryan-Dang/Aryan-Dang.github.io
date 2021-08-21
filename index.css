@@ -21,4 +21,5 @@ body{
 .card{
     margin: 2px;
     border-radius: 15px;
+    background-color: inherit;
 }
