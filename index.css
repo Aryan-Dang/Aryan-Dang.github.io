@@ -25,3 +25,8 @@ body{
     border-radius: 15px;
     background-color: inherit;
 }
+
+.contact-me-icon{
+    background-color: inherit;
+    border: none;
+}
