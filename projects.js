@@ -32,7 +32,7 @@ function displayProject(project){
     //using += adds new project
     wrapper.innerHTML += `
         <!--bootstrap code for displaying card-->
-        <div class="card list-group-item-action" style="width: 18rem;">
+        <div class="card list-group-item-action d-flex w-100 justify-content-between" style="width: 18rem;">
             <div class="card-body">
             <h5 class="card-title">${project.name}</h5>
             <p class="card-text">${project.description}</p>
