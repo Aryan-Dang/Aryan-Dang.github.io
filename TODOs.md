@@ -5,10 +5,10 @@ A file to plan and manage tasks and features for my website
 - [ ] Add Icons
 - [ ] Add Footer
 - [ ] Add some quick navigation feature - Sidebar maybe
-- [ ] Add website icon
+- [x] Add website icon
 - [ ] Add expandable Project description
 - [ ] Date feature maybe 
 - [ ] Add `<noscript>` 
 - [ ] Add setter function for getting a `project`
-- [ ] Add clubs & organisations
-- [ ] Center everything so there's equal space on left and right side
+- [x] Add clubs & organisations
+- [x] Center everything so there's equal space on left and right side
