@@ -15,3 +15,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add central `json` file which contains information about projects,clubs,etc.
 - [ ] Add loading on scroll
 - [ ] Add paged look to sections of the website
+- [ ] Add Carousels for images of Projects
