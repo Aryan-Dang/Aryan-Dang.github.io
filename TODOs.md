@@ -16,3 +16,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add loading on scroll
 - [x] Add paged look to sections of the website
 - [ ] Add Carousels for images of Projects
+- [ ] Add typed.js
