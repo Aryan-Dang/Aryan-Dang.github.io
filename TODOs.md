@@ -14,5 +14,5 @@ A file to plan and manage tasks and features for my website
 - [x] Center everything so there's equal space on left and right side
 - [ ] Add central `json` file which contains information about projects,clubs,etc.
 - [ ] Add loading on scroll
-- [ ] Add paged look to sections of the website
+- [x] Add paged look to sections of the website
 - [ ] Add Carousels for images of Projects
