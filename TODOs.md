@@ -6,7 +6,6 @@ A file to plan and manage tasks and features for my website
 - [ ] Add Footer
 - [ ] Add some quick navigation feature - Sidebar maybe
 - [x] Add website icon
-- [ ] Add expandable Project description
 - [ ] Date feature maybe 
 - [ ] Add `<noscript>` 
 - [ ] Add setter function for getting a `project`
@@ -17,3 +16,5 @@ A file to plan and manage tasks and features for my website
 - [x] Add paged look to sections of the website
 - [ ] Add Carousels for images of Projects
 - [ ] Add typed.js
+- [ ] To enlarge project description flip project card
+- [ ] Have something concise on the front face of the card
