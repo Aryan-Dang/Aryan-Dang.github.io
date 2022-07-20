@@ -9,8 +9,8 @@ a project is of the following type:
 //An array of projects.
 let projects = [
     {
-        'name':'sample',
-        'description' : 'A sample project'
+        'name':'Destinations',
+        'description' : "Cross-platform Material app built using Flutter which can dynamically add and display destinations saved by users"
     },
     {
         'name' : 'Personal Website',
