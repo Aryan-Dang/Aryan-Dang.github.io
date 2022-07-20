@@ -23,6 +23,10 @@ let projects = [
     {
         'name' : "DriveSave",
         'description' : "Awarded ’Best Venture Pitch’ prize at HackUMass IX for DriveSave, a project that takes kinetic measurements in real-time to detect bad driving habits and display them on the user’s phone."
+    },
+    {
+        "name" : "Avoid the Asteroids",
+        "description" : "Game built on Hardware where goal is to avoid the falling asteroids"
     }
 ];
 
