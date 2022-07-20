@@ -27,6 +27,10 @@ let projects = [
     {
         "name" : "Avoid the Asteroids",
         "description" : "Game built on Hardware where goal is to avoid the falling asteroids"
+    },
+    {
+        "name" : "Project inbox dashboard",
+        "description" : "Team project, more details coming soon..."
     }
 ];
 
