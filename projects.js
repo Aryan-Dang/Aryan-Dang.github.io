@@ -20,6 +20,10 @@ let projects = [
         'name':'Discord Gamebot',
         'description' : "Utilized Discord’s Javascript API to play 2 player TicTacToe through Discord."
     },
+    {
+        'name' : "DriveSave",
+        'description' : "Awarded ’Best Venture Pitch’ prize at HackUMass IX for DriveSave, a project that takes kinetic measurements in real-time to detect bad driving habits and display them on the user’s phone."
+    }
 ];
 
 //sets the projects count according to the length of projects
