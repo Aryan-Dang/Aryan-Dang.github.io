@@ -17,8 +17,8 @@ let projects = [
         'description' : "You're looking at it right now. Built using HTML/CSS and Javascript ..."
     },
     {
-        'name':'Sample2',
-        'description' : 'Another sample project'
+        'name':'Discord Gamebot',
+        'description' : "Utilized Discord’s Javascript API to play 2 player TicTacToe through Discord."
     },
 ];
 
