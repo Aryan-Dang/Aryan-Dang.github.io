@@ -17,7 +17,7 @@ A file to plan and manage tasks and features for my website
 - [ ] Add Carousels for images of Projects
 - [ ] Add typed.js
 - [ ] To enlarge project description flip project card
-- [ ] Have something concise on the front face of the card
+- [x] Have something concise on the front face of the card
 - [ ] Have tags on projects to filter them
 - [ ] Add buttons which allow user to select certain tags
 - [ ] Make sure Mobile also has clean UX
