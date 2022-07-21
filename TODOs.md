@@ -21,3 +21,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Have tags on projects to filter them
 - [ ] Add buttons which allow user to select certain tags
 - [ ] Make sure Mobile also has clean UX
+- [ ] Add color/bold,etc to projects for readability
