@@ -9,16 +9,8 @@ a project is of the following type:
 //An array of projects.
 let projects = [
     {
-        'name':'Destinations',
-        'description' : "Cross-platform Material app built using Flutter which can dynamically add and display destinations saved by users"
-    },
-    {
-        'name' : 'Personal Website',
-        'description' : "You're looking at it right now. Built using HTML/CSS and Javascript, this website contains some of the projects I've worked on"
-    },
-    {
-        'name':'Discord Gamebot',
-        'description' : "Utilized Discord’s Javascript API to play 2 player TicTacToe through Discord."
+        "name" : "Project inbox dashboard",
+        "description" : "Team project, more details coming soon..."
     },
     {
         'name' : "DriveSave",
@@ -29,9 +21,17 @@ let projects = [
         "description" : "Game built on Hardware where goal is to avoid the falling asteroids"
     },
     {
-        "name" : "Project inbox dashboard",
-        "description" : "Team project, more details coming soon..."
-    }
+        'name':'Destinations',
+        'description' : "Cross-platform Material app built using Flutter which can dynamically add and display destinations saved by users"
+    },
+    {
+        'name':'Discord Gamebot',
+        'description' : "Utilized Discord’s Javascript API to play 2 player TicTacToe through Discord."
+    },
+    {
+        'name' : 'Personal Website',
+        'description' : "You're looking at it right now. Built using HTML/CSS and Javascript, this website contains some of the projects I've worked on"
+    },
 ];
 
 //sets the projects count according to the length of projects
