@@ -25,3 +25,4 @@ A file to plan and manage tasks and features for my website
 - [ ] Add repo link and image to project cards
 - [ ] Add a featured thing which shows stuff like hackumass IX link
 - [ ] Add intro content
+- [ ] Add Linkedin icon to page
